@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://clearlakeacrepair/sitemap.xml
+Sitemap: https://clearlakeacrepair/blog_sitemap.xml
